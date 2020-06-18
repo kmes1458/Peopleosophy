@@ -1,0 +1,2 @@
+# Peopleosophy
+Information about people. 
